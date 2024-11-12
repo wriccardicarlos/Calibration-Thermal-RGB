@@ -1,0 +1,5 @@
+https://github.com/Clothooo/lvt2calib
+https://www.redalyc.org/journal/4988/498875016008/html/
+https://www.sciencedirect.com/science/article/pii/S1350449524001038
+https://docs.luxonis.com/software/depthai/examples/thermal_align/
+https://github.com/ShreyasSkandanS/pst900_thermal_rgb/blob/master/toolkit/utilities.py
